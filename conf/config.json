@@ -1,0 +1,16 @@
+{
+    "appid"            : "xxxxxx",
+    "secret_id"        : "xxxxxxxxxxxxxxxxx",
+    "secret_key"       : "xxxxxxxxxxxxxxxxx",
+    "bucket"           : "xxxxxxx",
+    "timeout"          : "60",
+    "thread_num"       : "5",
+    "delete_sync"      : "0", 
+    "daemon_mode"      : "0",
+    "daemon_interval"  : "60", 
+    "enable_https"     : "0",
+    "region"           : "sh",
+
+    "local_path"       : "/home/data",
+    "cos_path"         : "/mysyncfolder"
+}
