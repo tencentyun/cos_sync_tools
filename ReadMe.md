@@ -1,3 +1,7 @@
+## 已弃用 - 请升级到最新版 cos_sync_tools
+
+> 工具已弃用，请直接使用基于 XML API 的 [cos_sync_tools_v5](https://github.com/tencentyun/cos_sync_tools_v5)。
+
 同步工具用于将本地的文件和目录上传到cos上, 文件和目录结构和本地一致
 此同步工具用户cos 4.x
 
